@@ -9,7 +9,7 @@ Projeto desenvolvido durante a formação em Programação Orientada a Objetos e
 ![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/edit/main/img/modelo_conceitual.png)
 
 ## Camadas Logicas
-![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/edit/main/img/Logica_camadas.png)
+![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/tree/main/img/Logica_camadas.png)
 
 ## Instancias e Dominios
 ![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/edit/main/img/Instancias_Dominios.png)
