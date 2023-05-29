@@ -6,13 +6,13 @@
 Projeto desenvolvido durante a formação em Programação Orientada a Objetos em Java da DevSuperior.com.br, que envolveu a criação de um sistema web para gerenciamento back-end de uma loja virtual. Utilizamos o Framework Spring com a linguagem Java e um banco de dados MySQL, o sistema possibilita o controle total de usuários, vendas e produto, aplicando conceitos de estrutura de camadas lógicas, CRUD e tratamento de exceções. 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/edit/main/img/modelo_conceitual.png)
+![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/blob/main/img/modelo_conceitual.png)
 
 ## Camadas Logicas
-![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/tree/main/img/Logica_camadas.png)
+![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/blob/main/img/Logica_camadas.png)
 
 ## Instancias e Dominios
-![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/edit/main/img/Instancias_Dominios.png)
+![Modelo Conceitual](https://github.com/devsrpereira/WebService_CRUD--SpringBoot--JPA--Hibernate/blob/main/img/Instancias_Dominios.png)
 
 # Tecnologias utilizadas
 ## Back-end
