@@ -1,41 +1,28 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+# WeB Service PDV
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+Projeto desenvolvido durante a formação em Programação Orientada a Objetos em Java da DevSuperior.com.br, que envolveu a criação de um sistema web para gerenciamento back-end de uma loja virtual. Utilizamos o Framework Spring com a linguagem Java e um banco de dados MySQL, o sistema possibilita o controle total de usuários, vendas e produto, aplicando conceitos de estrutura de camadas lógicas, CRUD e tratamento de exceções. 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/img/modelo_conceitual.png)
+
+## Logica de Camadas
+![Modelo Conceitual](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/img/Logica_camadas.png)
+
+## Instancias e Dominios
+![Modelo Conceitual](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/img/Instancias_Dominios.png)
 
 # Tecnologias utilizadas
-## Back end
+## Back-end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
 ## Implantação em produção
 - Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Banco de dados: PostgreSQL
 
 # Como executar o projeto
 
@@ -44,34 +31,18 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/tree/main/webservice
 
-# entrar na pasta do projeto back end
-cd backend
+# entrar na pasta do projeto
+cd webservice
 
 # executar o projeto
 ./mvnw spring-boot:run
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Saulo Roberto de Souza Pereira
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/dev-saulo-pereira/
