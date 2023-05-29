@@ -8,7 +8,7 @@ Projeto desenvolvido durante a formação em Programação Orientada a Objetos e
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/img/modelo_conceitual.png)
 
-## Logica de Camadas
+## Camadas Logicas
 ![Modelo Conceitual](https://github.com/devsrpereira/Java--Udemi--Nelio_Alves--Aula298--WebServices/blob/main/img/Logica_camadas.png)
 
 ## Instancias e Dominios
